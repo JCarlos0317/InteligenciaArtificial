@@ -1,0 +1,18 @@
+C:\Users\Guadalupe\Documents\Trabajos y tareas\redNeuronal\redNeuronal\bin\Debug\redNeuronal.exe.config
+C:\Users\Guadalupe\Documents\Trabajos y tareas\redNeuronal\redNeuronal\bin\Debug\redNeuronal.exe
+C:\Users\Guadalupe\Documents\Trabajos y tareas\redNeuronal\redNeuronal\bin\Debug\redNeuronal.pdb
+C:\Users\Guadalupe\Documents\Trabajos y tareas\redNeuronal\redNeuronal\obj\Debug\redNeuronal.csprojAssemblyReference.cache
+C:\Users\Guadalupe\Documents\Trabajos y tareas\redNeuronal\redNeuronal\obj\Debug\redNeuronal.Form1.resources
+C:\Users\Guadalupe\Documents\Trabajos y tareas\redNeuronal\redNeuronal\obj\Debug\redNeuronal.Properties.Resources.resources
+C:\Users\Guadalupe\Documents\Trabajos y tareas\redNeuronal\redNeuronal\obj\Debug\redNeuronal.csproj.GenerateResource.cache
+C:\Users\Guadalupe\Documents\Trabajos y tareas\redNeuronal\redNeuronal\obj\Debug\redNeuronal.exe
+C:\Users\Guadalupe\Documents\Trabajos y tareas\redNeuronal\redNeuronal\obj\Debug\redNeuronal.pdb
+C:\Users\Guadalupe\Documents\Trabajos y tareas\Universidad Politecnica de Tecamac\8° Cuatrimestre\Inteligencia Artificial\redNeuronal2\redNeuronal\bin\Debug\redNeuronal.exe.config
+C:\Users\Guadalupe\Documents\Trabajos y tareas\Universidad Politecnica de Tecamac\8° Cuatrimestre\Inteligencia Artificial\redNeuronal2\redNeuronal\bin\Debug\redNeuronal.exe
+C:\Users\Guadalupe\Documents\Trabajos y tareas\Universidad Politecnica de Tecamac\8° Cuatrimestre\Inteligencia Artificial\redNeuronal2\redNeuronal\bin\Debug\redNeuronal.pdb
+C:\Users\Guadalupe\Documents\Trabajos y tareas\Universidad Politecnica de Tecamac\8° Cuatrimestre\Inteligencia Artificial\redNeuronal2\redNeuronal\obj\Debug\redNeuronal.csprojAssemblyReference.cache
+C:\Users\Guadalupe\Documents\Trabajos y tareas\Universidad Politecnica de Tecamac\8° Cuatrimestre\Inteligencia Artificial\redNeuronal2\redNeuronal\obj\Debug\redNeuronal.Form1.resources
+C:\Users\Guadalupe\Documents\Trabajos y tareas\Universidad Politecnica de Tecamac\8° Cuatrimestre\Inteligencia Artificial\redNeuronal2\redNeuronal\obj\Debug\redNeuronal.Properties.Resources.resources
+C:\Users\Guadalupe\Documents\Trabajos y tareas\Universidad Politecnica de Tecamac\8° Cuatrimestre\Inteligencia Artificial\redNeuronal2\redNeuronal\obj\Debug\redNeuronal.csproj.GenerateResource.cache
+C:\Users\Guadalupe\Documents\Trabajos y tareas\Universidad Politecnica de Tecamac\8° Cuatrimestre\Inteligencia Artificial\redNeuronal2\redNeuronal\obj\Debug\redNeuronal.exe
+C:\Users\Guadalupe\Documents\Trabajos y tareas\Universidad Politecnica de Tecamac\8° Cuatrimestre\Inteligencia Artificial\redNeuronal2\redNeuronal\obj\Debug\redNeuronal.pdb
